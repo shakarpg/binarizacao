@@ -90,7 +90,3 @@ pip install opencv-python matplotlib
 ```
 
 ---
-
-## 👨‍💻 Autor
-
-Rafael PG — [@shakarpg](https://github.com/shakarpg)
