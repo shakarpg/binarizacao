@@ -69,17 +69,6 @@ plt.tight_layout()
 plt.show()
 ```
 
----
-
-## 🖼️ Exemplo Esperado
-
-| Colorida | Tons de Cinza | Preto e Branco |
-|---------|----------------|----------------|
-| ![Colorida](images/lena_colorida.jpg) | ![Cinza](images/lena_cinza.jpg) | ![PB](images/lena_pb.jpg) |
-
-> Substitua os arquivos na pasta `/images` pelos resultados gerados por você.
-
----
 
 ## 📥 Requisitos
 
